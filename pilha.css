@@ -1,0 +1,12 @@
+body{
+	text-align: center;
+}
+header{
+	padding: 20px;
+	background-color: #262626;
+	text-align: center;
+	color: #f1f1f1;
+	font-family: 'Josefin Sans', sans-serif;
+}
+form, .btn{
+	margin: 30px;
